@@ -1,4 +1,4 @@
 arduino-proptest
 ================
 
-Arduino Propellor Thrust Tester
+Arduino Propeller Thrust / Power Tester
